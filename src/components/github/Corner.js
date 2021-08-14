@@ -4,13 +4,11 @@ import './style.css';
 
 export default () => (
   <a
-    href="https://github.com/jeffersonRibeiro/react-shopping-cart"
-    className="github-corner"
-    aria-label="View source on Github"
+
   >
     <svg
-      width="80"
-      height="80"
+      width="0"
+      height="0"
       viewBox="0 0 250 250"
       style={{
         fill: '#151513',
